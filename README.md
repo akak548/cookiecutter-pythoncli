@@ -28,7 +28,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **{{ cookiecutter.full_name }}** - *Initial work* - [{{ cookiecutter.project_name }}](https://github.com/{{ cookiecutter.github_username }})
+* **{{ cookiecutter.author_name_name }}** - *Initial work* - [{{ cookiecutter.project_name }}](https://github.com/{{ cookiecutter.github_username }})
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
