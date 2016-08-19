@@ -3,10 +3,9 @@
 
 [![Python Version][python-image]][python-url]
 [![PyPi Downloads][downloads-image]][downloads-url]
-[![Linux Build][travis-image]][travis-url]
+[![Build Status][build-image]][build-url]
+[![Test Coverage][coverage-image]][coverage-url]
 
-[![Windows Build][appveyor-image]][appveyor-url]
-[![Test Coverage][coveralls-image]][coveralls-url]
 
 ## Features
 
@@ -45,3 +44,7 @@ This project is licensed under the {{ cookiecutter.license }} - see the [LICENSE
 [python-url]:  https://www.python.org
 [downloads-image]: https://img.shields.io/badge/downloads-0%2Fmonth-red.svg 
 [downloads-url]: https://pypi.python.org/pypi 
+[coverage-image]: https://img.shields.io/badge/coverage-0%25-red.svg
+[coverage-url]: https://codeship.com
+[build-image]: https://img.shields.io/badge/build-failing-red.svg
+[build-url]: https://codeship.com 
