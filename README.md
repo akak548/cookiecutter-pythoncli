@@ -9,18 +9,14 @@
 
 ## Features
 
-## Documentation
-
-## Installation
-OS X & Linux:
-
-```sh
-python setup.py install
-```
 
 ## Examples
 
 ## Tests 
+
+## Installation
+
+Please read [installation.md](docs/installation.md) for details on installation and configuration
 
 ## Contributing
 
