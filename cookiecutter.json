@@ -1,0 +1,17 @@
+{
+    "author_name": "Cornell Greene",
+    "email" : "akak548@gmail.com",
+    "github_username": "akak548",
+    "project_name": "",
+    "module_name": "",
+    "project_short_description": "",
+    "project_long_description": "",
+    "python_major_version": "",
+    "python_minor_version": "",
+    "command_line_interface": ["Click", "cement", "No command-line interface"],
+    "test_platform": "",
+    "version": "0.1.0",
+    "create_author_file": "y",
+    "license": ["Apache 2.0", "BSD 2-Clause", "BSD 3-Clause", "GNU GPL-2.0", "GNU GPL-3.0", "Mozilla 2.0", "MIT", "Not open source"],
+    "year": "{% now 'utc', '%Y' %}"
+}
